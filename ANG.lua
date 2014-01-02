@@ -1,4 +1,5 @@
---Random Admin name Generator V 1.0
+--Random Admin name Generator V 1.1
+--V 1.1 Change Fixed a small error in the code
 --Created by Sapein
 --Variables
 --Names
@@ -27,6 +28,6 @@ elseif LR == 6 then
     print(F)
 elseif LR == 7 then
     print(G)
-else --Safeguard against a decimal being created(even though it -- won't occur)
+else --Safeguard against a decimal being created(even though it won't occur)
     print('ERROR: GENERATED A DECIMAL. PLEASE RESTART PROGRAM')
 end
