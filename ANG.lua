@@ -1,4 +1,4 @@
---Random Admin name Generator V 1.1.
+--Random Admin name Generator V 1.1
 --V 1.1 Change Fixed a small error in the code
 --Created by Sapein
 --Variables
